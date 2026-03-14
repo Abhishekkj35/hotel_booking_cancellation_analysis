@@ -131,9 +131,11 @@ These insights help hotels understand cancellation behavior and adjust their str
 
 ## How to Run This Project
 1 Clone the Repository
-git clone https://github.com/yourusername/hotel-booking-cancellation-analysis.git
+https://github.com/Abhishekkj35/hotel_booking_cancellation_analysis.git
+
 2 Install Required Libraries
 pip install pandas numpy matplotlib seaborn
+
 3 Run the Analysis Notebook
 
 Open the Jupyter Notebook and run all cells to reproduce the analysis and visualizations.
